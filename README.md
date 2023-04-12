@@ -3,7 +3,7 @@
 # url shortener application programming interface
 
 ##  I. Specification
-Create a webservice that shortens urls similar to tinyurl and bit.ly, and provides statistics on their usage.
+Create a webservice that shortens urls akin to tinyurl and bit.ly, and provides statistics on their usage.
 
 Endpoints to expose:
 - POST /shorten\
